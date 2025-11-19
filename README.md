@@ -89,4 +89,6 @@ Forecast using logically selected historical windows
 It reflects real-world skills valuable in data analyst and data scientist roles.
 
 📁 Project Files
-📝 Notebook: 
+📓 Notebook: video_game_sales_analysis.ipynb
+📂 Data folder: Contains cleaned and supporting files
+
